@@ -1,0 +1,29 @@
+
+#cabeceraWeb{
+    background-color: #00F;
+}
+
+#navegacionPrincipal{
+    background-color: #F00;
+}
+
+#barraLateral{
+    background-color: #0F0;
+    float: left;
+    height: 1140px;
+}
+#contenidoPrincipal{
+    background-color: #606;
+    margin-left: 350px;
+    padding-left: 15px;
+    padding-top: 15px;
+}
+#piePrincipal{
+    background-color: #FF0;
+    clear: both;
+    margin-top: 15px;
+}
+li{
+    background-color: #FF0;
+    display: inline;
+}
