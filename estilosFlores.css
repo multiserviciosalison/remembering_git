@@ -16,6 +16,7 @@ q:before, q:after { content:'';
 
 body{
     font-size: 62.5%;
+    background: rgb(11, 155, 136);
 }
 h1{
     font: normal 2.4em Verdana, Geneva, Sans-serif;
